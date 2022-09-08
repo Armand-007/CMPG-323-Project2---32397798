@@ -1,3 +1,22 @@
 1. Connecting to Azure SQL Database (AccessToSQL)
    https://docs.microsoft.com/en-us/sql/ssma/access/connecting-to-azure-sql-db-accesstosql?view=sql-server-ver16
-   
+2. Quickstart: Use SSMS to connect to and query Azure SQL Database or Azure SQL Managed Instance
+   https://docs.microsoft.com/en-us/azure/azure-sql/database/connect-query-ssms?view=azuresql
+3. Commit and push a change (Git) with sourcetree
+   https://confluence.atlassian.com/get-started-with-sourcetree/commit-and-push-a-change-git-847359114.html
+4. Deploy .NET Core apps with Visual Studio
+   https://docs.microsoft.com/en-us/dotnet/core/deploying/deploy-with-vs?tabs=vs156
+5. Tutorial: Create a web API with ASP.NET Core | Microsoft Docs 
+   https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio
+6. Create a web API with ASP.NET Core controllers - Learn | Microsoft Docs 
+   https://docs.microsoft.com/en-us/training/modules/build-web-api-aspnet-core/
+7. ASP.NET Core web API documentation with Swagger / OpenAPI
+   https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-3.1
+8. Create microservices with .NET and ASP.NET Core
+   https://docs.microsoft.com/en-us/training/paths/create-microservices-with-dotnet/
+9. Entity Framework Core in ASP.NET Core 3.1 – Getting Started
+   https://procodeguide.com/programming/entity-framework-core-in-asp-net-core/
+10.Join two entities in .NET Core, using lambda and Entity Framework Core
+   https://jd-bots.com/2022/01/24/join-two-entities-in-net-core-using-lambda-and-entity-framework-core/
+11.Publish an ASP.NET Core web API to Azure API Management with Visual Studio
+   https://docs.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-api-management-using-vs?view=aspnetcore-6.0
