@@ -8,3 +8,4 @@ After the code was finished I published the project to Azure and connected it to
 ### Problem I have encountered
 I encoutered alot of problems with the SQL database and the script that to create the tables, the API HTTPS creation 
 came with alot of set backs and took alot of my time.
+Therefore this API will not be able to be uses by the user as it is not completed due to the problems that I have faced
